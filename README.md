@@ -45,6 +45,7 @@ Users should be able to:
 
 ### What I learned
 
+This challenge provided valuable practice for my coding skills, particularly in styling backgrounds and images.
 
 ```css
 header::after {
@@ -52,15 +53,19 @@ header::after {
   background-position-x: 25.3%;
   background-position-y: 52.16%;
 }
-```
+``` 
 
 ### Continued development
 
-
-### Useful resources
-
+I intended to add features that close one submenu when another is opened, but I forgot to implement this.
 
 ## Author
 
+- Frontend Mentor - [@ilham-bouk](https://www.frontendmentor.io/profile/ilham-bouk)
+- LinkedIn - [Ilham Bouktir](https://www.linkedin.com/in/ilham-bouktir-0b266b31b)
 
 ## Acknowledgments
+
+A big thank you to anyone providing feedback on [my solution](). It definitely helps to find new ways to code and find easier solutions!
+
+**Happy coding!** ☺️🚀
