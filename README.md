@@ -47,7 +47,11 @@ Users should be able to:
 
 
 ```css
-
+header::after {
+  background-size: 220.5%;
+  background-position-x: 25.3%;
+  background-position-y: 52.16%;
+}
 ```
 
 ### Continued development
