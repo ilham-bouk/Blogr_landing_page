@@ -54,7 +54,7 @@ header {
   color: white;
   background-image: linear-gradient(45deg, var(--Intro-linear-gradient));
   position: relative;
-  height: 90vh;
+  height: 80vh;
   border-bottom-left-radius: 90px;
 }
 header::after {
